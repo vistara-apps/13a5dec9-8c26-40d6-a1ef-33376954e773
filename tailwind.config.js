@@ -13,6 +13,7 @@ module.exports = {
         accent: 'hsl(180, 60%, 55%)',
         primary: 'hsl(240, 80%, 60%)',
         surface: 'hsl(0, 0%, 100%)',
+        border: 'hsl(220, 15%, 90%)',
         muted: {
           foreground: 'hsl(220, 15%, 40%)',
         },

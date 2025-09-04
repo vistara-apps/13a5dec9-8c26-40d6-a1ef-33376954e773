@@ -4,9 +4,6 @@ const nextConfig = {
   images: {
     domains: ['oaidalleapiprodscus.blob.core.windows.net', 'images.unsplash.com'],
   },
-  experimental: {
-    appDir: true,
-  },
 };
 
 export default nextConfig;
