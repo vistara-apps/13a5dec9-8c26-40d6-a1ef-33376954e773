@@ -1,0 +1,14 @@
+{
+  "name": "AdSpark AI",
+  "description": "AdSpark AI is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://13a5dec9-8c26-40d6-a1ef-33376954e773.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "AdSpark AI",
+      "description": "AdSpark AI is a Base Mini App built with Zara.",
+      "url": "https://13a5dec9-8c26-40d6-a1ef-33376954e773.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

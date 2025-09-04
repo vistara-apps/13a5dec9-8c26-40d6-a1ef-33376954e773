@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "AdSpark AI",
+    "subtitle": "Built with Zara",
+    "description": "AdSpark AI is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://13a5dec98c2640d6a1ef33376954e773-m1rp-6kxvtmrme-vistara.vercel.app",
+    "splashImageUrl": "https://13a5dec98c2640d6a1ef33376954e773-m1rp-6kxvtmrme-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://13a5dec98c2640d6a1ef33376954e773-m1rp-6kxvtmrme-vistara.vercel.app/image.png",
+    "tagline": "AdSpark AI",
+    "screenshotUrls": [
+      "https://13a5dec98c2640d6a1ef33376954e773-m1rp-6kxvtmrme-vistara.vercel.app/screenshot.png",
+      "https://13a5dec98c2640d6a1ef33376954e773-m1rp-6kxvtmrme-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://13a5dec98c2640d6a1ef33376954e773-m1rp-6kxvtmrme-vistara.vercel.app/api/webhook"
+  }
+}
